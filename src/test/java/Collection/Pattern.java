@@ -11,6 +11,7 @@ public class Pattern {
     		 System.out.print(1);
     	 }
     	 System.out.println();
+	     System.out.println("amitKumar");
      }
 	}
 
